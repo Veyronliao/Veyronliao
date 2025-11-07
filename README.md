@@ -2,7 +2,7 @@
 
 ### A passionate full stack developer from China, I am now a freelance worker.
 
-- 🔭 I'm currently working on **a Ethereum NFT trading market**
+- 🔭 I'm currently working on **a decentralized NFT trading app**
 
 - 🌱 I'm currently learning **rust **
 
